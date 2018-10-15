@@ -1,0 +1,18 @@
+.logo {
+  font-size: 6em;
+}
+
+.tag {
+  font-style: italic;
+}
+
+.header {
+  border: 6px solid white;
+  padding: 20px;
+}
+
+.Navbar {
+  padding: 20px;
+  margin: auto;
+  width: 25%;
+}
