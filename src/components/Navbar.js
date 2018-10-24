@@ -5,8 +5,8 @@ const Navbar = () => {
   return (
     <div className="Navbar">
       <div className="header">
-        <div className="logo">KK</div>
-        <div className="tag">'The unluckiest man in the world, pet'</div>
+        <div className="logo">King Kev</div>
+        <div className="tag">'The unluckiest man in the world'</div>
       </div>
     </div>
   );
