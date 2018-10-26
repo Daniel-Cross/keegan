@@ -115,9 +115,7 @@ class Main extends Component {
 
       `“The 33 or 34-year-olds will be 36 or 37 by the time the next World Cup comes around, if they're not careful.” ~King Kev`,
 
-      `“You can't do better than go away from home and get a draw…” ~King Kev`,
-
-      `Paul Gas`
+      `“You can't do better than go away from home and get a draw…” ~King Kev`
     ];
 
     const random = story[Math.floor(Math.random() * story.length)];
