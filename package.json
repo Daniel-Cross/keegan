@@ -2,18 +2,19 @@
   "name": "keegan",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://daniel-cross.github.io/keegan/",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.5"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -37,6 +38,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Daniel-Cross/keegan/issues"
-  },
-  "homepage": "https://daniel-cross.github.io/keegan/"
+  }
 }
