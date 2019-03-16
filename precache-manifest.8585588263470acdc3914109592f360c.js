@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/keegan/static/js/runtime~main.bca745d0.js"
   },
   {
-    "revision": "7a460e8ebb3e9ba49fc050a7583d84ad",
+    "revision": "be3e4bb5977a2604a3db902c70e18e5d",
     "url": "/keegan/index.html"
   }
 ];
