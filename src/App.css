@@ -1,6 +1,11 @@
 .App {
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  justify-content: space-between;
   color: white;
-  background-color: rgb(26, 26, 26);
+  background-image: linear-gradient(to right top, #00ffba, #00d4e0, #00a4ff, #006cff, #000bc1);
   font-family: 'Roboto', sans-serif;
+  min-height: 100vh;
+
 }
