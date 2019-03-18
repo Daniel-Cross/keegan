@@ -2,7 +2,7 @@
   "name": "keegan",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://daniel-cross.github.io/keegan/",
+  "homepage": "https://superkevinkeegan.com/",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
